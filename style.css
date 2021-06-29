@@ -21,4 +21,9 @@
 .card-footer h5{
     margin-left: 20px;
 }
-
+.cat{
+    text-align: center;
+}
+.Categories .row{
+    padding: 80px;
+}
