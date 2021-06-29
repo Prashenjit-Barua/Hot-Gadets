@@ -1,4 +1,22 @@
+.container{
+    margin-bottom: 30px;
+}
 .nav-link{
     color: gray;
     font-weight: 600;
+}
+.background{
+    background-image: url("hot-gadgets/bg-2.png");
+}
+.see{
+    color: yellowgreen;
+}
+.card{
+    border: none;
+}
+.card-footer{
+    border-top: none;  
+}
+.card-footer h5{
+    margin-left: 20px;
 }
