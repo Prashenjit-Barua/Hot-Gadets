@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .nav-link{
     color: gray;
@@ -13,6 +13,7 @@
 }
 .card{
     border: none;
+    padding: 50px;
 }
 .card-footer{
     border-top: none;  
@@ -20,3 +21,4 @@
 .card-footer h5{
     margin-left: 20px;
 }
+
